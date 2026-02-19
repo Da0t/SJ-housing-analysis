@@ -1,0 +1,15 @@
+year,geo_id,name,median_household_income,income_moe
+2010,0500000US06085,"Santa Clara County, California",85002,1760
+2011,0500000US06085,"Santa Clara County, California",84895,1426
+2012,0500000US06085,"Santa Clara County, California",91425,1402
+2013,0500000US06085,"Santa Clara County, California",92014,1523
+2014,0500000US06085,"Santa Clara County, California",97532,2089
+2015,0500000US06085,"Santa Clara County, California",102340,1449
+2016,0500000US06085,"Santa Clara County, California",111069,1800
+2017,0500000US06085,"Santa Clara County, California",119035,2988
+2018,0500000US06085,"Santa Clara County, California",126606,3046
+2019,0500000US06085,"Santa Clara County, California",133076,3515
+2021,0500000US06085,"Santa Clara County, California",141562,2669
+2022,0500000US06085,"Santa Clara County, California",150839,2976
+2023,0500000US06085,"Santa Clara County, California",154954,3264
+2024,0500000US06085,"Santa Clara County, California",168154,4521
